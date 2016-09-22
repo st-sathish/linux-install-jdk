@@ -70,7 +70,7 @@ sudo update-alternatives --set javac /usr/local/java/jdk1.7.0_71/bin/javac
 java -version
 ```
 
-### The MIT License
+The MIT License
 ===============
 
 Copyright (c) 2016 Sathish Thangathurai
